@@ -1,0 +1,65 @@
+name: openai-gym-starter
+channels:
+- defaults
+dependencies:
+- cairo=1.14.8=0
+- cycler=0.10.0=py35_0
+- fontconfig=2.12.1=3
+- freetype=2.5.5=2
+- graphviz=2.38.0=4
+- icu=54.1=0
+- jbig=2.1=0
+- jpeg=9b=0
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libtiff=4.0.6=3
+- libxml2=2.9.4=0
+- matplotlib=2.0.0=np112py35_0
+- mkl=2017.0.1=0
+- numpy=1.12.1=py35_0
+- openssl=1.0.2k=1
+- pip=9.0.1=py35_1
+- pixman=0.34.0=0
+- pyparsing=2.1.4=py35_0
+- pyqt=5.6.0=py35_2
+- python=3.5.3=1
+- python-dateutil=2.6.0=py35_0
+- python.app=1.2=py35_4
+- pytz=2017.2=py35_0
+- qt=5.6.2=0
+- readline=6.2=2
+- setuptools=27.2.0=py35_0
+- sip=4.18=py35_0
+- six=1.10.0=py35_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py35_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- pip:
+  - atari-py==0.0.21
+  - box2d==2.3.2
+  - box2d-py==2.3.1
+  - cairocffi==0.8.0
+  - cffi==1.10.0
+  - gizeh==0.1.10
+  - gym (/Users/harmansingh/Documents/github/NEAT-AC/gym)==0.8.1
+  - gym-ple (/Users/harmansingh/Documents/github/NEAT-AC/dependencies/gym-ple)==0.1
+  - imageio==2.1.2
+  - keras==2.0.3
+  - mujoco-py==0.5.7
+  - neat==0.4.1
+  - neat-python==0.91
+  - olefile==0.44
+  - pachi-py==0.0.21
+  - pillow==4.1.0
+  - pycparser==2.17
+  - pyglet==1.2.4
+  - pyopengl==3.1.0
+  - pyyaml==3.12
+  - requests==2.13.0
+  - scipy==0.19.0
+  - theano==0.9.0
+  - webob==1.7.2
+prefix: /Users/harmansingh/anaconda/envs/openai-gym-starter
+
