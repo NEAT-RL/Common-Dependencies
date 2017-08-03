@@ -1,4 +1,4 @@
-name: openai-copy
+name: openai-neat-3.5
 channels:
 - defaults
 dependencies:
@@ -47,5 +47,5 @@ dependencies:
 - wheel=0.29.0=py35_0
 - xz=5.2.2=1
 - zlib=1.2.8=3
-prefix: /home/singhharm1/miniconda3/envs/openai-copy
+prefix: /home/singhharm1/miniconda3/envs/openai-neat-3.5
 
